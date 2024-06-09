@@ -4,6 +4,7 @@
              x:Class="GaleryGrid.juan_feliz"
              Title="juan_feliz">
     <VerticalStackLayout>
+        <!--Juan esta feliz-->
         <Image Source="juan_feliz.jpg" WidthRequest="600" HeightRequest="400"/>
     </VerticalStackLayout>
 </ContentPage>
