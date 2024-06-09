@@ -34,23 +34,23 @@
 
 
 
-            <ImageButton Source="dotnet_Bot.png"  Grid.Row="0" Grid.Column="0"  Aspect="AspectFill"  Clicked="ImageButton_Clicked" />
-            <ImageButton Source="animal.png"   Grid.Row="0" Grid.Column="1"   Aspect="AspectFill" Clicked="ImageButton_Clicked_1"/>
-            <ImageButton Source="animal2.png"  Grid.Row="0" Grid.Column="2"   Aspect="AspectFill"/>
-            <ImageButton Source="imagen1.png"  Grid.Row="0" Grid.Column="3"   Aspect="AspectFill"/>
+            <ImageButton Source="dotnet_Bot.png"  Grid.Row="0" Grid.Column="0"  Aspect="AspectFill"  Clicked="ImageButton_Clicked_1" />
+            <ImageButton Source="animal.png"   Grid.Row="0" Grid.Column="1"   Aspect="AspectFill" Clicked="ImageButton_Clicked_2"/>
+                <ImageButton Source="animal2.png"  Grid.Row="0" Grid.Column="2"   Aspect="AspectFill" Clicked="ImageButton_Clicked_3"/>
+                <ImageButton Source="imagen1.png"  Grid.Row="0" Grid.Column="3"   Aspect="AspectFill" Clicked="ImageButton_Clicked_4"/>
 
 
 
-            <ImageButton Source="camaro.jpg" Grid.Row="1" Grid.Column="0" Aspect="AspectFill" Clicked="ImageButton_Clicked_2"  />
-            <ImageButton Source="goku.jpg" Grid.Row="1" Grid.Column="1" Aspect="Fill" BackgroundColor="white"  Margin="0.5,0.5"/>
-            <ImageButton Source="playa.jpg" Grid.Row="1" Grid.Column="2" Aspect="Fill" BackgroundColor="Grey" Margin="0.5,0.5"/>
-            <ImageButton Source="baki.jpg" Grid.Row="1" Grid.Column="3" Aspect="Fill" BackgroundColor="Pink" Margin="0.5,0.5"/>
+            <ImageButton Source="camaro.jpg" Grid.Row="1" Grid.Column="0" Aspect="AspectFill" Clicked="ImageButton_Clicked_5"  />
+                <ImageButton Source="goku.jpg" Grid.Row="1" Grid.Column="1" Aspect="AspectFill" Clicked="ImageButton_Clicked_6"/>
+                <ImageButton Source="playa.jpg" Grid.Row="1" Grid.Column="2" Aspect="AspectFill" Clicked="ImageButton_Clicked_7"/>
+                <ImageButton Source="baki.jpg" Grid.Row="1" Grid.Column="3" Aspect="AspectFill" Clicked="ImageButton_Clicked_8"/>
 
 
-            <ImageButton Source="supra.jpg" Grid.Row="2" Grid.Column="0" Aspect="Fill" BackgroundColor="Orange" Margin="0.5,0.5"/>
-            <ImageButton Source="tacos.jpg" Grid.Row="2" Grid.Column="1" Aspect="Fill" BackgroundColor="white" Margin="0.5,0.5"/>
-            <ImageButton Source="luna.jpg" Grid.Row="2" Grid.Column="2" Aspect="Fill" BackgroundColor="Gold" Margin="0.5,0.5"/>
-            <ImageButton Source="amanecer.jpg" Grid.Row="2" Grid.Column="3" Aspect="Fill" BackgroundColor="Pink" Margin="0.5,0.5"/>
+                <ImageButton Source="supra.jpg" Grid.Row="2" Grid.Column="0" Aspect="AspectFill" Clicked="ImageButton_Clicked_9"/>
+                <ImageButton Source="tacos.jpg" Grid.Row="2" Grid.Column="1" Aspect="AspectFill" Clicked="ImageButton_Clicked_10"/>
+                <ImageButton Source="luna.jpg" Grid.Row="2" Grid.Column="2" Aspect="AspectFill" Clicked="ImageButton_Clicked_11"/>
+                <ImageButton Source="amanecer.jpg" Grid.Row="2" Grid.Column="3" Aspect="AspectFill" Clicked="ImageButton_Clicked_12"/>
         </Grid>
 
         <Label Text="Ayer" TextColor="White" FontSize="25" HorizontalOptions="Start"  Padding="10,10,10,10"/>
@@ -78,23 +78,23 @@
 
 
 
-            <ImageButton Source="mancuernas.jpg"  Grid.Row="0" Grid.Column="0"  Aspect="AspectFill"  Clicked="ImageButton_Clicked" />
-            <ImageButton Source="gtr.jpg"   Grid.Row="0" Grid.Column="1"   Aspect="AspectFill" Clicked="ImageButton_Clicked_1"/>
-                <ImageButton Source="lemans.jpg"  Grid.Row="0" Grid.Column="2"   Aspect="AspectFill" Clicked="ImageButton_Clicked_2"/>
-                <ImageButton Source="ps5.jpg"  Grid.Row="0" Grid.Column="3"   Aspect="AspectFill" />
+            <ImageButton Source="mancuernas.jpg"  Grid.Row="0" Grid.Column="0"  Aspect="AspectFill"  Clicked="ImageButton_Clicked_13" />
+            <ImageButton Source="gtr.jpg"   Grid.Row="0" Grid.Column="1"   Aspect="AspectFill" Clicked="ImageButton_Clicked_14"/>
+                <ImageButton Source="lemans.jpg"  Grid.Row="0" Grid.Column="2"   Aspect="AspectFill" Clicked="ImageButton_Clicked_15"/>
+                <ImageButton Source="ps5.jpg"  Grid.Row="0" Grid.Column="3"   Aspect="AspectFill" Clicked="ImageButton_Clicked_16"/>
 
 
 
-                <ImageButton Source="meme_perico.jpg" Grid.Row="1" Grid.Column="0" Aspect="AspectFill" BackgroundColor="Orange" Margin="0.5,0.5" />
-                <ImageButton Source="meme_caballo.jpg" Grid.Row="1" Grid.Column="1" Aspect="AspectFill" BackgroundColor="white"  Margin="0.5,0.5"/>
-                <ImageButton Source="juan_feliz.jpg" Grid.Row="1" Grid.Column="2" Aspect="AspectFill" BackgroundColor="Grey" Margin="0.5,0.5" Clicked="ImageButton_Clicked_5"/>
-                <ImageButton Source="baki.jpg" Grid.Row="1" Grid.Column="3" Aspect="AspectFill" BackgroundColor="Pink" Margin="0.5,0.5"/>
+                <ImageButton Source="meme_perico.jpg" Grid.Row="1" Grid.Column="0" Aspect="AspectFill" Clicked="ImageButton_Clicked_17" />
+                <ImageButton Source="meme_caballo.jpg" Grid.Row="1" Grid.Column="1" Aspect="AspectFill" Clicked="ImageButton_Clicked_18"/>
+                <ImageButton Source="juan_feliz.jpg" Grid.Row="1" Grid.Column="2" Aspect="AspectFill" Clicked="ImageButton_Clicked_19"/>
+                <ImageButton Source="baki.jpg" Grid.Row="1" Grid.Column="3" Aspect="AspectFill" Clicked="ImageButton_Clicked_8"/>
 
 
-                <ImageButton Source="spiderman.jpg" Grid.Row="2" Grid.Column="0" Aspect="AspectFill" BackgroundColor="Orange" Margin="0.5,0.5"/>
-                <ImageButton Source="cinturon.jpg" Grid.Row="2" Grid.Column="1" Aspect="AspectFill" BackgroundColor="white" Margin="0.5,0.5"/>
-                <ImageButton Source="reloj.jpg" Grid.Row="2" Grid.Column="2" Aspect="AspectFill" BackgroundColor="Gold" Margin="0.5,0.5"/>
-                <ImageButton Source="perico.jpg" Grid.Row="2" Grid.Column="3" Aspect="AspectFill" BackgroundColor="Pink" Margin="0.5,0.5"/>
+                <ImageButton Source="spiderman.jpg" Grid.Row="2" Grid.Column="0" Aspect="AspectFill" Clicked="ImageButton_Clicked_21"/>
+                <ImageButton Source="cinturon.jpg" Grid.Row="2" Grid.Column="1" Aspect="AspectFill" Clicked="ImageButton_Clicked_22"/>
+                <ImageButton Source="reloj.jpg" Grid.Row="2" Grid.Column="2" Aspect="AspectFill" Clicked="ImageButton_Clicked_23"/>
+                <ImageButton Source="perico.jpg" Grid.Row="2" Grid.Column="3" Aspect="AspectFill" Clicked="ImageButton_Clicked_24"/>
         </Grid>
     </VerticalStackLayout>
     </ScrollView>
